@@ -1,5 +1,5 @@
-# Algoritmo para la detección de Stiction y Holgura en válvulas de control.
-  Este programa esta basado en las investigaciones realizadas por Tore Hagglund 2007:2011.
+# Algorithm for the detection of Stiction and Backlash in control valves.
+### This program is based on research conducted by Tore Hagglund 2007:2011.
 -
 - 
 
