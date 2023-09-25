@@ -3,4 +3,4 @@
 -
 - 
 
-\int_{tc0}^{tc1}|e(t)|dt
+$$ \int_{tc0}^{tc1}|e(t)|dt $$
