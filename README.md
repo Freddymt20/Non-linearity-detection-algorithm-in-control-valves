@@ -5,5 +5,7 @@
 
 $$ {\int_{tc0}^{tc1}|e(t)|dt} $$
 
-$$ {Istic = frac: Vsine - Vsquare / Vsine + Vsquare } $$        $$ {Istic  > 0 ; Stiction} $$
-                                                                $$ {Istic  < 0 ; Stiction} $$
+$$ {Istic = Vsine - Vsquare \over Vsine + Vsquare } $$        
+
+$$ {Istic  > 0 ; Stiction} $$
+$$ {Istic  < 0 ; Stiction} $$
