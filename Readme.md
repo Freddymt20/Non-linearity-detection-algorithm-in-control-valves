@@ -11,7 +11,7 @@ This program is based on research conducted by Tore Hagglund (2007:2011) for the
 
 \text{IAE Aplication :} \quad \quad  \begin{align} IAE ={\int_{tc0}^{tc1}|e(t)|dt} \quad \end{align} \quad  \quad \quad 
 
- \text{Stiction Indicator} \\ 
+<p align="center">Stiction Indicator</p> 
  \begin{align}   Istic &= \frac{Vsine - Vsquare}{Vsine + Vsquare}  \quad \\ \end{align} \\  
 \text{When \textbf{Vsine} and \textbf{Vsquare} are the probabily form.} 
 
